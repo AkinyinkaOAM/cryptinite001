@@ -2,9 +2,9 @@ import { useState } from 'react';
 import { Phone, Mail, MapPin, Clock, Send, CheckCircle } from 'lucide-react';
 
 const contactInfo = [
-  { icon: Phone, label: 'Phone', value: '0800 123 4567', subtext: '24/7 Emergency Line' },
+  { icon: Phone, label: 'Phone', value: '0734 226 4901', subtext: '24/7 Emergency Line' },
   { icon: Mail, label: 'Email', value: 'info@cryptinite-security.co.uk', subtext: 'General Inquiries' },
-  { icon: MapPin, label: 'Address', value: '123 Security House, London', subtext: 'EC1A 1BB, United Kingdom' },
+  { icon: MapPin, label: 'Address', value: '50 Burham Avenue, Llanrumney', subtext: 'CF3 5QT,  Cardiff Wales' },
   { icon: Clock, label: 'Hours', value: '24 Hours / 7 Days', subtext: 'Always Available' },
 ];
 
